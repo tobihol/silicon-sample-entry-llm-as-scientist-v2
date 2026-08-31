@@ -1,0 +1,57 @@
+{
+  "upload_type": "software",
+  "title": "Silicon Sample Benchmark — Tier 1 (individual simulation) submission (team team_31)",
+  "version": "1.0-t1",
+  "language": "eng",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Holtdirk, Tobias",
+      "affiliation": "LMU Munich, SODA Lab (Social Data Science and AI Lab)"
+    },
+    {
+      "name": "Ma, Bolei",
+      "affiliation": "LMU Munich"
+    }
+  ],
+  "description": "<p>Analysis-first structural prediction of the megastudy's 16 x 13 treatment-effect table (outcome-level base effect + low-rank message loading + sparse assertion-match terms), every constant estimated from a train split of 11 published message experiments; Tier-1 rows synthesised backwards from the table under census quotas. Built by an autonomous LLM agent (claude-opus-5 in an agent harness) working inside an environment that scored it only on fresh respondent-halves of held-out studies with a 2-submission budget, attenuation-corrected diagnostics, and a leave-one-study-out promotion gate; no human edited any prediction. Registered team: Tobias Holtdirk, Bolei Ma; the agent sessions for this entry were operated by contributor Haiwen Huang.</p>",
+  "keywords": [
+    "Silicon Sample Benchmark",
+    "silicon sampling",
+    "large language models",
+    "computational social science",
+    "survey methodology",
+    "public opinion",
+    "climate communication",
+    "treatment effect prediction"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://janpfander.github.io/llm_predictions_megastudy/",
+      "relation": "isPartOf",
+      "scheme": "url",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://janpfander.github.io/llm_predictions_megastudy/amendment_preregistration.html",
+      "relation": "references",
+      "scheme": "url",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://github.com/tobihol/silicon-sample-submission",
+      "relation": "isCompiledBy",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Team team_31. Disclosure class B.",
+  "contributors": [
+    {
+      "name": "Huang, Haiwen",
+      "type": "Other",
+      "affiliation": ""
+    }
+  ]
+}

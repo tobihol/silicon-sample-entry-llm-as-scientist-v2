@@ -1,0 +1,92 @@
+study,sample,beh_outcome,arm,n_arm,n_ctrl,beh_ate_pp,beh_se_pp,matched_attitude_ate_pp,ratio_beh_over_att,note
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Binding Framing,1029,3046,-1.411,1.636,0.74,-1.908,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Consensus Framing 1,1020,3046,-1.086,1.636,1.017,-1.068,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Consensus Framing 2,1016,3046,-3.947,1.647,1.447,-2.727,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Dire But Solvable Framing,1029,3046,-0.622,1.63,2.16,-0.288,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Free Market Framing,1017,3046,-1.498,1.65,1.823,-0.822,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Gains Framing,990,3046,-2.048,1.672,2.634,-0.778,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,High Social Distance Framing,1016,3046,-1.448,1.652,1.139,-1.271,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Purity Framing,1002,3046,0.534,1.649,1.443,0.37,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,System Preservation Framing,1014,3046,-1.937,1.642,2.729,-0.71,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+voelkel2026,"US n=13,173",donation_cents_0_100_to_5_climate_NGOs,Warmth Framing,994,3046,-0.368,1.653,0.11,-3.331,end-of-survey; real $1 of own pay; everyone paid; the 3 placebo controls are IDENTICAL to the target study (neckties/baseball/dances)
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,BindingMoral,5088,5085,0.911,0.846,0.976,0.933,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,CollectAction,5159,5085,-2.122,0.85,2.516,-0.843,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,DynamicNorm,5167,5085,0.383,0.844,0.956,0.4,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,FutureSelfCont,4194,5085,-1.956,0.898,2.052,-0.953,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,LetterFutureGen,4022,5085,-4.293,0.911,2.589,-1.658,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,NegativeEmotions,5162,5085,-6.296,0.854,0.163,-38.52,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,PluralIgnorance,5170,5085,-1.274,0.849,0.493,-2.585,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,PsychDistance,4730,5085,-5.469,0.873,2.08,-2.629,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,SciConsens,5286,5085,0.625,0.838,1.024,0.61,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,SystemJust,5173,5085,-0.807,0.846,1.34,-0.602,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",WEPT_pages_0_8_effort_for_env_fund,WorkTogetherNorm,5156,5085,-5.132,0.854,-0.347,14.809,effortful real-consequence task near end of survey
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,BindingMoral,3873,3905,4.273,1.133,0.976,4.377,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,CollectAction,3721,3905,9.008,1.139,2.516,3.58,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,DynamicNorm,3808,3905,6.539,1.136,0.956,6.838,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,FutureSelfCont,3094,3905,7.794,1.198,2.052,3.798,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,LetterFutureGen,2939,3905,10.081,1.211,2.589,3.894,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,NegativeEmotions,3661,3905,10.606,1.14,0.163,64.891,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,PluralIgnorance,3864,3905,1.343,1.134,0.493,2.724,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,PsychDistance,3394,3905,7.741,1.168,2.08,3.721,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,SciConsens,3967,3905,3.881,1.126,1.024,3.79,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,SystemJust,3821,3905,5.462,1.136,1.34,4.077,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"global n=59,440",share_message_on_social_media_0_1,WorkTogetherNorm,3959,3905,5.376,1.126,-0.347,-15.512,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,BindingMoral,711,669,0.876,2.334,4.672,0.187,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,CollectAction,714,669,-6.991,2.366,5.934,-1.178,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,DynamicNorm,734,669,1.884,2.314,2.437,0.773,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,FutureSelfCont,591,669,-2.706,2.472,4.086,-0.662,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,LetterFutureGen,534,669,-6.506,2.547,5.47,-1.189,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,NegativeEmotions,726,669,-8.557,2.375,2.313,-3.7,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,PluralIgnorance,725,669,-2.447,2.347,2.358,-1.038,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,PsychDistance,694,669,-7.552,2.368,5.593,-1.35,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,SciConsens,722,669,-0.135,2.337,3.677,-0.037,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,SystemJust,724,669,-2.674,2.353,4.372,-0.612,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",WEPT_pages_0_8_effort_for_env_fund,WorkTogetherNorm,709,669,-5.89,2.366,2.14,-2.752,effortful real-consequence task near end of survey
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,BindingMoral,549,518,5.541,3.037,4.672,1.186,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,CollectAction,515,518,8.855,3.063,5.934,1.492,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,DynamicNorm,530,518,6.336,3.059,2.437,2.6,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,FutureSelfCont,439,518,6.206,3.21,4.086,1.519,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,LetterFutureGen,406,518,10.318,3.243,5.47,1.886,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,NegativeEmotions,521,518,9.481,3.049,2.313,4.099,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,PluralIgnorance,544,518,5.349,3.045,2.358,2.268,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,PsychDistance,516,518,10.285,3.049,5.593,1.839,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,SciConsens,554,518,7.175,3.021,3.677,1.951,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,SystemJust,539,518,8.121,3.035,4.372,1.857,"self-reported real share, IMMEDIATELY after message"
+vlasceanu2024,"US n=8,253",share_message_on_social_media_0_1,WorkTogetherNorm,544,518,7.003,3.035,2.14,3.272,"self-reported real share, IMMEDIATELY after message"
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Alternative_Control,983,5568,2.284,0.849,1.785,1.279,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Befriending_Meditation,877,5568,5.371,0.904,5.625,0.955,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Chatbot_Quiz,1026,5568,3.015,0.835,3.19,0.945,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Civity_Storytelling,963,5568,8.747,0.833,8.903,0.982,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Common_Identity,1070,5568,6.337,0.778,9.053,0.7,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Contact_Project,894,5568,12.431,0.885,10.691,1.163,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Counterfactual_Selves,1088,5568,1.554,0.844,1.788,0.869,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Democratic_Fear,1023,5568,5.263,0.82,4.675,1.126,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Economic_Interests,1009,5568,1.469,0.856,1.122,1.309,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Empathy_Beliefs,899,5568,7.306,0.856,7.281,1.003,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Epistemic_Rescue,999,5568,4.77,0.855,4.073,1.171,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Harmful_Experiences,1082,5568,2.069,0.86,1.843,1.123,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Inparty_Elites,1074,5568,2.594,0.833,2.335,1.111,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Learning_Goals,869,5568,4.609,0.913,5.382,0.856,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Media_Trust,990,5568,9.179,0.806,10.132,0.906,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Misperception_Competition,1088,5568,1.692,0.83,3.009,0.562,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Misperception_Democratic,1081,5568,4.6,0.814,6.082,0.756,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Misperception_Film,1052,5568,5.93,0.798,8.071,0.735,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Misperception_Suffering,1032,5568,5.964,0.872,6.036,0.988,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Moral_Differences,1012,5568,5.497,0.831,5.18,1.061,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Outparty_Friendship,985,5568,5.032,0.895,5.1,0.987,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Partisan_Threat,1077,5568,-0.7,0.822,-0.782,0.894,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Party_Overlap,1055,5568,3.33,0.825,3.426,0.972,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,System_Justification,1094,5568,2.636,0.829,2.232,1.181,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Utah_Cues,1102,5568,0.638,0.828,1.948,0.327,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+voelkel2024,"US n=31,908",dictator_game_50c_to_outpartisan_person,Violence_Efficacy,916,5568,0.809,0.908,1.144,0.707,sign flipped so + = more money given; RECIPIENT IS THE MESSAGE TARGET GROUP; matched attitude = partisan animosity (flipped)
+koetke2024_S5,US n=617,optin_be_sent_info_after_survey_0_1,Limits of Methods,156,150,-9.385,5.58,1.372,-6.842,matched attitude = METI trust in the scientist (1-7); control base rate 44.0%
+koetke2024_S5,US n=617,optin_be_sent_info_after_survey_0_1,Limits of Results,166,150,-4.843,5.566,3.33,-1.454,matched attitude = METI trust in the scientist (1-7); control base rate 44.0%
+koetke2024_S5,US n=617,optin_be_sent_info_after_survey_0_1,Personal Humility,145,150,-10.207,5.663,1.688,-6.047,matched attitude = METI trust in the scientist (1-7); control base rate 44.0%
+spampatti2023,"12-country n=5,948",WEPT_pages_0_8_effort_for_env_fund,1,824,853,1.083,1.382,2.446,0.443,NO neutral control (control also read disinformation) -> the common message-vs-nothing shift is differenced out
+spampatti2023,"12-country n=5,948",WEPT_pages_0_8_effort_for_env_fund,2,856,853,-0.606,1.335,2.095,-0.289,NO neutral control (control also read disinformation) -> the common message-vs-nothing shift is differenced out
+spampatti2023,"12-country n=5,948",WEPT_pages_0_8_effort_for_env_fund,3,847,853,1.195,1.35,0.651,1.835,NO neutral control (control also read disinformation) -> the common message-vs-nothing shift is differenced out
+spampatti2023,"12-country n=5,948",WEPT_pages_0_8_effort_for_env_fund,4,879,853,0.442,1.352,2.88,0.154,NO neutral control (control also read disinformation) -> the common message-vs-nothing shift is differenced out
+spampatti2023,"12-country n=5,948",WEPT_pages_0_8_effort_for_env_fund,5,837,853,-0.165,1.352,0.697,-0.237,NO neutral control (control also read disinformation) -> the common message-vs-nothing shift is differenced out
+spampatti2023,"12-country n=5,948",WEPT_pages_0_8_effort_for_env_fund,6,852,853,2.12,1.385,2.293,0.925,NO neutral control (control also read disinformation) -> the common message-vs-nothing shift is differenced out
+bago2025,"US n=1,999",feed_upvotes_0_20,personal,1002,997,2.583,0.911,1.846,1.399,"engagement with the stimulus itself, NOT a follow-through ask"
+bago2025,"US n=1,999",feed_bookmarks_0_20,personal,1002,997,-0.247,0.409,1.846,-0.134,"engagement with the stimulus itself, NOT a follow-through ask"

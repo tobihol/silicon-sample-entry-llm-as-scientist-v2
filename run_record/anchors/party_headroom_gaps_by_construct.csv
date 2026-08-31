@@ -1,0 +1,74 @@
+construct,source_dataset,source_item,year,Democrat,Republican,gap_D_minus_R,H_R,H_D,hdiff
+climate_belief,geiger2026_vdL2019,belief_pre: climate belief pre (1-7),2017,81.5,55.02,26.48,44.98,18.5,26.48
+climate_belief,voelkel2026,Belief_Post 0-100 slider (climate belief),2024,76.47,53.63,22.85,46.37,23.53,22.85
+climate_belief,voelkel2026,Belief_Pre 0-100 slider (climate belief),2024,76.06,53.27,22.8,46.73,23.94,22.8
+climate_candidate,voelkel2026,Candidate_Post 0-100 slider (candidate support),2024,37.79,26.5,11.29,73.5,62.21,11.29
+climate_candidate,voelkel2026,Candidate_Pre 0-100 slider (candidate support),2024,40.49,27.62,12.87,72.38,59.51,12.87
+climate_change_belief_severity,anes2020,V202332 climate change affecting severe weather (1-5),2020,81.0,41.44,39.56,58.56,19.0,39.56
+climate_companies,voelkel2026,Companies_Post 0-100 slider (companies should act),2024,84.88,56.03,28.85,43.97,15.12,28.85
+climate_companies,voelkel2026,Companies_Pre 0-100 slider (companies should act),2024,84.81,58.03,26.78,41.97,15.19,26.78
+climate_concern,anes2020,V202333 importance of climate change (1-5),2020,75.5,36.63,38.86,63.37,24.5,38.86
+climate_concern,voelkel2026,Concern_Post 0-100 slider (climate concern/worry),2024,78.77,41.03,37.74,58.97,21.23,37.74
+climate_concern,voelkel2026,Concern_Pre 0-100 slider (climate concern/worry),2024,78.27,41.28,36.99,58.72,21.73,36.99
+climate_danger_belief,gss,tempgen greenhouse effect danger to environment (5pt),1993-2024,69.6,55.07,14.52,44.93,30.4,14.52
+climate_intent,voelkel2026,Intent_Post 0-100 slider (behavioral intent),2024,45.95,22.0,23.96,78.0,54.05,23.96
+climate_intent,voelkel2026,Intent_Pre 0-100 slider (behavioral intent),2024,45.31,22.89,22.42,77.11,54.69,22.42
+climate_intentnp,voelkel2026,IntentNp_Post 0-100 slider (non-policy intent),2024,62.29,46.11,16.18,53.89,37.71,16.18
+climate_intentnp,voelkel2026,IntentNp_Pre 0-100 slider (non-policy intent),2024,62.39,46.64,15.74,53.36,37.61,15.74
+climate_policies,voelkel2026,Policies_Post 0-100 slider (climate policy support),2024,84.05,51.13,32.91,48.87,15.95,32.91
+climate_policies,voelkel2026,Policies_Pre 0-100 slider (climate policy support),2024,83.66,50.88,32.78,49.12,16.34,32.78
+climate_policiessp,voelkel2026,PoliciesSp_Post 0-100 slider (specific policy support),2024,65.63,40.33,25.3,59.67,34.37,25.3
+climate_policiessp,voelkel2026,PoliciesSp_Pre 0-100 slider (specific policy support),2024,64.84,40.1,24.74,59.9,35.16,24.74
+climate_policy_support,geiger2026_vdL2019,policy_pre: climate policy support pre (1-7),2017,81.98,62.15,19.83,37.85,18.02,19.83
+climate_worry,geiger2026_vdL2019,worry_pre: climate worry pre (1-7),2017,71.36,46.3,25.06,53.7,28.64,25.06
+perceived_scientific_consensus,geiger2026_vdL2019,consensus_pre: perceived consensus pre (0-100),2017,72.35,60.82,11.53,39.18,27.65,11.53
+trust_in_environmental_scientists,pew_atp_w42,"RQ4_F1B 5-item mean env research scientists (4pt, reversed)",2019,75.13,59.1,16.03,40.9,24.87,16.03
+trust_in_environmental_scientists,pew_atp_w42,"RQ4_F1BA_W42 env research scientists: does good research (4pt, reversed)",2019,82.19,68.22,13.97,31.78,17.81,13.97
+trust_in_environmental_scientists,pew_atp_w42,"RQ4_F1BB_W42 env research scientists: fair and accurate info (4pt, reversed)",2019,80.36,63.5,16.86,36.5,19.64,16.86
+trust_in_environmental_scientists,pew_atp_w42,"RQ4_F1BC_W42 env research scientists: admits mistakes (4pt, reversed)",2019,65.16,48.74,16.42,51.26,34.84,16.42
+trust_in_environmental_scientists,pew_atp_w42,"RQ4_F1BD_W42 env research scientists: transparent re conflicts (4pt, reversed)",2019,66.59,51.84,14.75,48.16,33.41,14.75
+trust_in_environmental_scientists,pew_atp_w42,"RQ4_F1BE_W42 env research scientists: cares about public interest (4pt, reversed)",2019,80.81,63.05,17.76,36.95,19.19,17.76
+trust_in_medical_scientists,pew_atp_w100,"CONF_F_W100 confidence Medical scientists act in best interests (4pt, reversed)",2021,78.96,56.65,22.31,43.35,21.04,22.31
+trust_in_medical_scientists,pew_atp_w114,"CONF_F_W114 confidence Medical scientists act in best interests (4pt, reversed)",2022,79.97,59.12,20.85,40.88,20.03,20.85
+trust_in_medical_scientists,pew_atp_w42,"CONFD_F1_W42 confidence Medical scientists act in best interests (4pt, reversed)",2019,76.12,72.58,3.54,27.42,23.88,3.54
+trust_in_medical_scientists,pew_atp_w42,"RQ4_F1A 5-item mean medical research scientists (4pt, reversed)",2019,69.95,65.98,3.97,34.02,30.05,3.97
+trust_in_scientists,anes2020,V202173 feeling thermometer scientists 0-100,2020,85.9,70.47,15.43,29.53,14.1,15.43
+trust_in_scientists,anes2024,"V242420 CSES trust in scientists (4pt, reversed)",2024,82.03,59.92,22.11,40.08,17.97,22.11
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1973,65.56,70.99,-5.44,29.01,34.44,-5.44
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1974,67.23,73.78,-6.55,26.22,32.77,-6.55
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1975,65.29,69.58,-4.28,30.42,34.71,-4.28
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1976,69.18,72.98,-3.8,27.02,30.82,-3.8
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1977,68.78,73.93,-5.15,26.07,31.22,-5.15
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1978,66.15,65.64,0.51,34.36,33.85,0.51
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1980,64.92,72.45,-7.53,27.55,35.08,-7.53
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1982,64.18,72.09,-7.9,27.91,35.82,-7.9
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1983,68.28,71.83,-3.55,28.17,31.72,-3.55
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1984,71.22,75.12,-3.9,24.88,28.78,-3.9
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1986,65.34,69.1,-3.75,30.9,34.66,-3.75
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1987,68.96,72.78,-3.82,27.22,31.04,-3.82
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1988,69.06,69.88,-0.83,30.12,30.94,-0.83
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1989,66.16,72.71,-6.55,27.29,33.84,-6.55
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1990,64.79,68.13,-3.34,31.87,35.21,-3.34
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1991,65.06,72.77,-7.71,27.23,34.94,-7.71
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1993,64.64,67.4,-2.76,32.6,35.36,-2.76
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1994,65.95,68.24,-2.29,31.75,34.05,-2.29
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1996,66.74,71.88,-5.14,28.12,33.26,-5.14
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",1998,67.15,68.89,-1.75,31.11,32.85,-1.75
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2000,69.31,68.42,0.89,31.58,30.69,0.89
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2002,65.5,66.9,-1.4,33.1,34.5,-1.4
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2004,67.71,67.94,-0.24,32.06,32.29,-0.24
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2006,69.9,70.11,-0.22,29.89,30.1,-0.22
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2008,68.93,65.56,3.38,34.44,31.07,3.38
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2010,71.83,66.96,4.87,33.04,28.17,4.87
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2012,68.52,67.14,1.38,32.86,31.48,1.38
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2014,70.56,64.58,5.98,35.42,29.44,5.98
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2016,70.86,65.39,5.48,34.61,29.14,5.48
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2016-2018,72.88,66.78,6.1,33.22,27.12,6.1
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2018,75.6,68.38,7.22,31.62,24.4,7.22
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2021,81.27,59.2,22.07,40.8,18.73,22.07
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2021-2024,75.75,55.23,20.53,44.77,24.25,20.53
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2022,72.66,51.3,21.36,48.7,27.34,21.36
+trust_in_scientists,gss,"consci confidence in scientific community (3pt, reversed)",2024,70.7,54.69,16.01,45.31,29.3,16.01
+trust_in_scientists,pew_atp_w100,"CONF_G_W100 confidence Scientists act in best interests (4pt, reversed)",2021,78.82,56.13,22.69,43.87,21.18,22.69
+trust_in_scientists,pew_atp_w114,"CONF_G_W114 confidence Scientists act in best interests (4pt, reversed)",2022,77.72,56.18,21.54,43.82,22.28,21.54
+trust_in_scientists,pew_atp_w42,"CONFD_F2_W42 confidence Scientists act in best interests (4pt, reversed)",2019,78.33,69.96,8.37,30.04,21.67,8.37

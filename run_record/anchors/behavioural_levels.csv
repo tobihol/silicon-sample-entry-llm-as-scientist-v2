@@ -1,0 +1,6 @@
+outcome,unit,control_level,band_low,band_high,control_sd,ate_band_low_pp,ate_band_high_pp,ate_centre_pp,n_sources,confidence
+donation_ams,US dollars (0-10),4.4,3.3,5.5,3.83,-1.2,0.8,0.05,4,low
+newsletter_signup,proportion (0-1),0.115,0.05,0.2,0.319,-0.4,1.0,0.4,3,low
+trust_multidimensional,0-100 slider (mean of 4 facet means),65.0,61.0,69.0,21.0,0.2,2.0,1.0,7,medium-high
+trust_post,0-100 slider,66.0,61.0,71.0,28.0,0.2,2.2,1.05,4,medium
+distrust_post,0-100 slider (NOT reversed; higher = more distrust),32.0,26.0,40.0,28.0,-1.6,0.0,-0.75,2,low-medium

@@ -1,0 +1,17 @@
+code_name,title,n_words,f_competence,f_integrity,f_benevolence,f_openness,facet_coverage,elicit_correct,consensus_norm,social_proof_norm,named_individual,first_person,process_transparency,admits_uncertainty,numeric_evidence,attack_outgroup,politically_coded_left,identity_bridge_right,benevolence_frame,practical_benefit,distrust_prime,threat_dire,self_praise,narrative_story,third_party_endorsement,moralized_emotive,s_raw,s_a,s_a_shrunk,rank
+flimsy fish,Interview Prof. Maraun,295,1.0,1.0,0.5,1.0,3.5,0,0.0,0.0,1,1,1.0,1,0,0.0,0.0,0,0,0.0,0.0,0,0,1.0,0,0.1,0.613125,0.965,0.1931,1
+honored haddock,Peer-review,208,1.0,1.0,0.0,1.0,3.0,0,0.5,0.0,0,0,1.0,0,0,0.0,0.0,0,0,0.0,0.0,0,1,0.0,0,0.1,0.413125,0.678,0.1355,2
+complicated cockroach,Portrait Prof. Cherry,262,1.0,0.5,1.0,0.5,3.0,0,0.0,0.0,1,0,0.0,0,0,0.0,0.0,0,1,1.0,0.0,0,0,1.0,0,0.2,0.38312500000000005,0.634,0.1269,3
+giant gibbon; brick bobcat,Corporate reliance,258,1.0,1.0,0.0,0.0,2.0,0,0.0,0.3,0,0,0.0,0,0,0.0,0.0,1,0,1.0,0.5,0,0,0.0,1,0.1,0.213125,0.39,0.078,4
+practical planarian,Extreme weather predictions,360,1.0,0.0,1.0,0.5,2.5,0,0.0,0.0,0,0,0.0,0,1,0.0,0.0,0,1,1.0,0.0,1,0,0.0,0,0.3,0.153125,0.303,0.0607,5
+limping llama; friendly frog,Former skeptics,480,1.0,0.5,0.0,0.5,2.0,0,0.0,0.3,1,1,0.0,0,0,0.0,0.0,1,0,0.0,0.5,0,0,1.0,1,0.3,0.153125,0.303,0.0607,6
+heartfelt hummingbird,Interview Prof. Sebille,209,0.5,1.0,1.0,0.5,3.0,0,0.0,0.0,1,1,0.0,0,0,0.0,0.5,0,1,0.0,0.0,1,0,1.0,0,0.6,0.13812500000000005,0.282,0.0564,7
+jealous jaguar,Consensus,500,1.0,0.5,0.0,0.5,2.0,1,1.0,0.5,0,0,0.5,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0.0,0.06812499999999998,0.181,0.0362,8
+apple aardvark,Model accuracy,377,1.0,0.5,0.0,1.0,2.5,0,0.0,0.0,0,0,1.0,1,1,0.0,0.0,0,0,0.0,1.0,0,0,0.0,0,0.1,-0.036875,0.03,0.006,9
+periwinkle partridge,Scientist community helpers,352,0.5,0.0,1.0,0.5,2.0,0,0.0,0.0,0,0,0.0,0,0,0.0,0.0,0,1,1.0,0.0,1,0,0.5,0,0.5,-0.10687500000000001,-0.071,-0.0141,10
+orchid orangutan; defiant dragonfly,Measurement & modeling (2),202,1.0,0.5,0.0,0.0,1.5,0,0.0,0.0,1,0,1.0,0,1,0.0,0.0,0,0,0.0,0.0,0,1,0.0,0,0.0,-0.15687500000000004,-0.143,-0.0285,11
+phony parrotfish,Funding,560,0.0,1.0,0.5,1.0,2.5,1,0.0,0.0,0,0,0.5,0,1,0.5,0.0,0,0,0.0,1.0,0,0,0.0,0,0.2,-0.166875,-0.157,-0.0314,12
+perfect prawn,Measurement & modeling (1),393,1.0,0.0,0.0,0.0,1.0,0,0.0,0.0,0,0,1.0,0,1,0.0,0.0,0,0,0.5,0.0,0,0,0.0,0,0.1,-0.386875,-0.473,-0.0947,13
+crushing chicken; gross grasshopper; homely halibut,High public trust,91,0.0,0.0,0.0,0.0,0.0,1,1.0,1.0,0,0,0.0,0,1,0.0,0.0,0,0,0.0,0.5,0,1,0.0,1,0.0,-0.6318750000000001,-0.826,-0.1652,14
+worse wildfowl,Oil industry misinformation,690,0.5,1.0,0.0,0.0,1.5,0,0.0,0.0,1,0,0.0,0,1,1.0,0.5,0,0,0.0,1.0,0,0,0.5,0,0.8,-0.7718750000000001,-1.027,-0.2055,15
+difficult dog,Social justice,211,0.0,0.5,1.0,0.0,1.5,0,0.0,0.0,0,0,0.0,0,1,1.0,1.0,0,1,0.0,0.5,0,0,0.0,0,0.9,-0.8018750000000001,-1.07,-0.2141,16

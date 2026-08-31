@@ -1,0 +1,9 @@
+source,item,format,n,mean_0_100,sd_0_100,pct_top_box,pct_bottom_box,headroom_pp
+pew_atp_w114,CONF_G scientists confidence,4-pt confidence,5259,66.8,26.8,27.9,4.6,33.2
+pew_atp_w42,RQ4_F1B env-scientist 5-item composite,"4-pt, 5-item mean",2201,67.21,22.24,9.2,1.4,32.79
+gss 2021-24,consci,3-pt confidence,7089,65.58,32.5,41.6,10.4,34.42
+tisp US,TRUST_SCI 12-item composite,"1-5 agreement, 12-item mean",2559,71.52,20.62,9.9,0.9,28.48
+tisp US,TRUST_SCI_expert single item,1-5 agreement single item,2559,73.44,24.78,32.8,3.1,26.56
+tisp US,CLIM_TRUST trust in climate scientists,1-5 agreement single item,2557,67.01,32.52,35.5,10.3,32.99
+tisp US,TRUST_PEW confidence item,1-5 confidence,2559,70.95,28.12,34.8,4.9,29.05
+anes2020,V202173 scientists feeling thermometer,0-100 thermometer,7367,78.02,20.92,29.4,0.8,21.98

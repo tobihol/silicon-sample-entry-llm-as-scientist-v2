@@ -1,0 +1,47 @@
+source,study,target_outcome,src_measure,n_arms,n_per_arm,ctrl_mean_pp,mean_signed,mean_abs,rms_obs,rms_se,rms_true,sd_arms,sd_true,note
+voelkel2026,CCC ancova,belief_post,Belief_Post,10,1037,65.44,1.156,1.225,1.482,0.368,1.435,0.977,0.905,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,concern_mean,Concern_Post,10,1037,60.44,1.224,1.376,1.545,0.367,1.5,0.993,0.923,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,policy_general,Policies_Post,10,1036,68.01,0.762,0.982,1.122,0.468,1.02,0.869,0.732,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,policy_specific_mean,PoliciesSp_Post,10,1014,53.3,1.341,1.341,1.43,0.428,1.365,0.525,0.304,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,behavior_mean,IntentNp_Post,10,1014,54.52,1.168,1.168,1.291,0.373,1.236,0.579,0.444,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,behavior_mean(political),Intent_Post,10,1037,33.86,1.841,1.841,2.081,0.443,2.033,1.023,0.922,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,UNMAPPABLE(candidate),Candidate_Post,10,1010,32.53,1.245,1.245,1.376,0.482,1.289,0.617,0.386,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC ancova,UNMAPPABLE(companies),Companies_Post,10,1020,70.9,0.774,0.92,1.087,0.422,1.002,0.805,0.685,10 short climate texts vs 3 pooled controls; ANCOVA
+voelkel2026,CCC post,donation_ams,Donation (cents of $1 to 5 env NGOs),10,1016,61.54,-1.383,1.49,1.784,1.647,0.687,1.188,0.0,REAL incentivised dictator; no pre-measure
+vlasceanu2024,ICPC US,belief_post,Belief,11,713,66.46,4.542,4.542,4.815,1.67,4.516,1.678,0.158,11 interventions vs control; post-only
+vlasceanu2024,ICPC global63,belief_post,Belief,11,5149,77.73,1.346,1.463,1.652,0.486,1.579,1.004,0.879,11 interventions vs control; post-only
+vlasceanu2024,ICPC US,policy_general,Policy,11,706,62.52,3.286,3.286,3.603,1.334,3.347,1.55,0.79,11 interventions vs control; post-only
+vlasceanu2024,ICPC global63,policy_general,Policy,11,5113,68.89,1.171,1.236,1.574,0.396,1.523,1.103,1.03,11 interventions vs control; post-only
+vlasceanu2024,ICPC US,newsletter_signup,Sharing,11,530,53.47,7.697,7.697,7.891,3.078,7.266,1.824,0.0,11 interventions vs control; post-only
+vlasceanu2024,ICPC global63,newsletter_signup,Sharing,11,3808,48.48,6.555,6.555,7.087,1.15,6.993,2.827,2.582,11 interventions vs control; post-only
+vlasceanu2024,ICPC US,behavior_mean(effort),WEPT,11,714,63.15,-3.7,4.202,5.054,2.381,4.458,3.611,2.714,11 interventions vs control; post-only
+vlasceanu2024,ICPC global63,behavior_mean(effort),WEPT,11,5159,62.48,-2.312,2.661,3.388,0.861,3.277,2.598,2.451,11 interventions vs control; post-only
+voelkel2024,SDC megastudy,PROXIMAL(targeted attitude),PA_Out,26,1025,71.28,-4.874,4.939,5.895,0.795,5.841,3.382,3.287,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,"donation_ams(dictator, other domain)",PA_DG,26,1024,64.89,-4.324,4.378,5.223,0.846,5.154,2.987,2.864,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP1,SocDistrust,26,1011,53.48,-1.502,1.585,1.954,0.949,1.708,1.275,0.851,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP1,ADA,26,1026,26.51,-0.109,1.339,1.827,0.791,1.646,1.86,1.683,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP1,SocDis,26,1010,30.73,-0.946,1.301,1.712,0.93,1.437,1.455,1.12,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP1,SUC,26,1013,52.48,-0.424,1.245,1.666,0.809,1.456,1.643,1.43,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP1,EleDen,26,1009,41.2,0.965,1.57,1.894,1.234,1.437,1.662,1.113,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP2,OppBip,26,1007,20.88,-0.308,0.975,1.173,0.746,0.906,1.155,0.881,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP2,SPV,26,1025,10.85,-0.117,0.871,1.13,0.69,0.895,1.146,0.915,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+voelkel2024,SDC megastudy,STEP2,BEPF,26,1007,51.62,-0.297,0.794,1.075,0.738,0.782,1.054,0.753,"25 interventions targeting partisan animosity; OTHER DOMAIN, used for decay shape only"
+gligoric2025,pooled,trust_multidimensional,trust_all35occ,10,785,68.5,0.483,0.483,0.553,1.033,0.0,0.284,0.0,from trust_effects.csv (ANCHORS_B)
+gligoric2025,pooled,trust_multidimensional,trust_climate_occ,10,388,63.34,0.287,1.041,1.219,1.952,0.0,1.249,0.0,from trust_effects.csv (ANCHORS_B)
+gligoric2025,pooled,trust_multidimensional,trust_climatologists,10,91,54.23,0.331,2.108,2.424,4.435,0.0,2.531,0.0,from trust_effects.csv (ANCHORS_B)
+agley2021,RCT,trust_multidimensional,trust_in_science_21item,2,511,72.5,0.328,0.331,0.466,0.751,0.0,0.468,0.0,from trust_effects.csv (ANCHORS_B)
+koetke2024,pooled,trust_multidimensional,METI_trust,8,154,82.86,1.967,7.017,8.499,1.746,8.318,8.839,8.665,from trust_effects.csv (ANCHORS_B)
+geiger2026_Veckalov2024,Veckalov2024 all27,trust_multidimensional,scientist_trust,2,3507,79.42,0.333,0.379,0.504,0.525,0.0,0.536,0.104,from trust_effects.csv (ANCHORS_B)
+geiger2026_Veckalov2024,Veckalov2024 all27,concern_mean,climate_worry,2,3507,74.17,0.979,0.979,0.982,0.604,0.774,0.094,0.0,from trust_effects.csv (ANCHORS_B)
+geiger2026_Veckalov2024,Veckalov2024 all27,policy_general,climate_action_support,2,3507,86.85,0.515,0.515,0.532,0.481,0.227,0.193,0.0,from trust_effects.csv (ANCHORS_B)
+geiger2026_Veckalov2024,Veckalov2024 all27,belief_post,belief_climate_change,2,3507,91.48,1.083,1.083,1.098,0.403,1.021,0.25,0.0,from trust_effects.csv (ANCHORS_B)
+geiger2026_Veckalov2024,Veckalov2024 all27,belief_post,belief_human_causation,2,3466,82.17,1.904,1.904,1.905,0.486,1.842,0.061,0.0,from trust_effects.csv (ANCHORS_B)
+geiger2026_vdL2019,pooled,belief_post,belief_DiD,5,1080,70.85,1.858,1.858,1.91,0.627,1.804,0.493,0.0,from trust_effects.csv (ANCHORS_B)
+geiger2026_vdL2019,pooled,concern_mean,worry_DiD,5,1080,63.35,1.361,1.361,1.494,0.565,1.383,0.689,0.394,from trust_effects.csv (ANCHORS_B)
+geiger2026_vdL2019,pooled,policy_general,policy_DiD,5,1080,73.82,1.187,1.187,1.256,0.569,1.12,0.461,0.0,from trust_effects.csv (ANCHORS_B)
+spampatti2023,pooled,belief_post,CCB,12,452,71.03,1.273,1.826,2.468,3.064,0.0,2.208,0.0,from trust_effects.csv (ANCHORS_B)
+spampatti2023,pooled,behavior_mean(effort),WEPT_90,12,452,18.26,-0.838,1.646,2.686,3.264,0.0,2.666,0.0,from trust_effects.csv (ANCHORS_B)
+koetke2024,S5,belief_post,belief_in_research,3,174,73.17,-5.236,5.236,6.036,1.825,5.753,3.677,3.192,from trust_effects.csv (ANCHORS_B)
+koetke2024,S5,newsletter_signup,behavior_follow,3,156,44.0,-8.145,8.145,8.48,5.603,6.365,2.889,0.0,from trust_effects.csv (ANCHORS_B)
+attari2016,pooled,PROXIMAL(researcher credibility),researcher_credibility,6,304,53.56,21.92,21.92,21.953,1.584,21.895,1.31,0.0,from trust_effects.csv (ANCHORS_B)
+attari2016,pooled,policy_general,policy_support,6,304,63.78,4.72,4.72,4.946,2.099,4.479,1.621,0.0,from trust_effects.csv (ANCHORS_B)

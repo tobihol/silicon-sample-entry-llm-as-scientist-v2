@@ -1,0 +1,26 @@
+file,quantity,method
+/workspace/datasets/voelkel2026/downloads/CCC - Data - Recoded.csv,"10 arm x 9 outcome ATE table vs pooled Control, pp of range","diff-in-means, ConditionR, 0-100 sliders + Donation; analytic MVN noise floor + 400 stratified split-halves"
+/workspace/datasets/voelkel2026/downloads/CCC - Questionnaire - Qualtrics.pdf,verbatim stimulus text of all 10 framing arms,"pypdf text extraction, ""Start of Block: <arm>"" .. ""End of Block"""
+/workspace/datasets/voelkel2026/downloads/CCC - Questionnaire.pdf,verbatim item wording of the 8 post outcome batteries + Donation,"pypdf text extraction, Parts J/K"
+/workspace/datasets/vlasceanu2024/downloads/data63.xlsx,"11-arm x 4-outcome ATE table (global, n=59,440) vs Control","diff-in-means; Belief=mean Belief1-4, Policy=mean Policy1-9, SHAREcc 0/1, WEPTcc 0-8"
+/workspace/datasets/vlasceanu2024/downloads/materials/usa_1.qsf,verbatim stimulus text of 10 of 11 arms + item wording,"Qualtrics JSON, DB-type questions only (item questions excluded); WorkTogetherNorm DROPPED (stimulus is a flyer IMAGE, <60 vendored content words)"
+/workspace/datasets/spampatti2023/downloads/Data/Preprocessed/Showdown.csv,6-arm x 4-outcome ATE table vs passive control (Condition==0),"diff-in-means; CCB 1-5, MIST_score 0-20, Affect 0-100 (mean of 20 Sci_*/Act_* affect items), WEPT_90 0-8"
+/workspace/datasets/spampatti2023/downloads/Materials/Main_Survey_Spampatti_et_al.qsf,verbatim stimulus text of the 6 inoculation arms + item wording,"Qualtrics JSON, Inoculation_i_1/Inoculation_i_2 blocks, DB questions only"
+/workspace/datasets/spampatti2023/downloads/Data/Codebook_Spampatti_et_al.xlsx,outcome definitions and scale ranges,read
+/workspace/datasets/koetke2024/downloads/Study 5/Study5CleanData.csv,3-arm x 6-outcome ATE table vs Control,"diff-in-means; IH_AVG 1-5 (22 items, 11 reverse-scored per the authors R script), METI Expertise/Integrity/Benevolence 1-7, BelRes 1-7, BehavFollow 0/1"
+/workspace/datasets/koetke2024/downloads/Study 5/IHS Study 5 Code for OSF.R,reverse-coding and subscale definitions,read; reproduced exactly
+/workspace/datasets/koetke2024/downloads/Study 5/IH and Science 5 Survey Final.docx,verbatim stimulus text of the 3 humility arms + item wording,docx XML text extraction
+/workspace/datasets/gligoric2025/downloads/Main Study/Analyses (data and codes)/dataMainStudy.csv,5-arm x 35-occupation ATE table vs Control,"diff-in-means, 1-7 credible/trustworthy mean per occupation"
+/workspace/datasets/gligoric2025/downloads/Main Study/Materials/Materials (word exported from Qualtrics).docx,verbatim stimulus text of the 5 frames,docx XML; RULE T-1 fires on 0 of 175 cells (no arm names any occupation) -> zero contrast
+/workspace/datasets/voelkel2024/downloads/SDC - Data - Recoded.csv,25-arm x 3-outcome (PA/SUC/SPV) ATE table vs Null_Control,"diff-in-means, all 0-100"
+/workspace/datasets/voelkel2024/downloads/SDC - Data - Intervention - Coding J.xlsx,"Reference_PA / Reference_SUP / Reference_SPV, coder J",read as-is
+/workspace/datasets/voelkel2024/downloads/SDC - Data - Intervention - Coding N.xlsx,"Reference_PA / Reference_SUP / Reference_SPV, coder N",read as-is; averaged with J (inter-coder r = .63/.92/.89)
+/workspace/datasets/voelkel2024/downloads/SDC - Data - Outcome Names.csv,outcome label mapping,read
+/workspace/datasets/voelkel2024/downloads/SDC - Questionnaire.pdf,check of stimulus vendoring,pypdf; 7 of 25 arms have <230 words of participant-visible text (video/chatbot) -> study DROPPED from the primary set by rule 4d
+/workspace/benchmark/survey/questionnaire.txt,the 16 intervention stimulus texts,"split on ""### <title>""; the state-adaptive arm truncated at the POST-TREATMENT OUTCOMES banner"
+/workspace/benchmark/codebook.csv,verbatim wording of the 44 items composing the 13 scored outcomes,read
+/workspace/benchmark/scripts/lib/submission_spec.R,the 13 scored outcome names and their composite definitions,read
+/workspace/run/anchors/ANCHORS_C.md,rank-1 share of true within-outcome variance (median 0.775) used as the generic-term benchmark,read
+"/workspace/run/anchors/ANCHORS_H.md, ANCHORS_J.md",noise-correction discipline and the ceiling on between-arm SD,read
+/workspace/run/DESIGN.md sec 6.5-6.6,the campaign v3 authored assertion-match map (3 full + 1 half cells),read
+/workspace/run/anchors/_rank_lib.py,build_table / centre_cols / noise_within_floor / noise_rank_capture,imported unchanged

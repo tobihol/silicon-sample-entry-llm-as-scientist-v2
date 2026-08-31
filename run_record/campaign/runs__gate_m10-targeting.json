@@ -1,0 +1,8 @@
+{
+ "tag": "m10-targeting",
+ "candidate": "20260828T060726Z_s5",
+ "baseline": "20260827T205641Z_s3",
+ "verdict": "REJECTED",
+ "failure_category": "donation/behavioral outcomes",
+ "decided_at": "2026-08-28T06:51:16Z"
+}

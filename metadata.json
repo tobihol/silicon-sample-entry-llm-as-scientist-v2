@@ -1,0 +1,44 @@
+{
+  "team_id": "team_31",
+  "team_name": "team_31 (SODA Lab, LMU Munich)",
+  "contact": "tobias.holtdirk@lmu.de",
+  "creators": [
+    {
+      "name": "Holtdirk, Tobias",
+      "affiliation": "LMU Munich, SODA Lab (Social Data Science and AI Lab)",
+      "orcid": ""
+    },
+    {
+      "name": "Ma, Bolei",
+      "affiliation": "LMU Munich",
+      "orcid": ""
+    }
+  ],
+  "abstract": "Analysis-first structural prediction of the megastudy's 16 x 13 treatment-effect table (outcome-level base effect + low-rank message loading + sparse assertion-match terms), every constant estimated from a train split of 11 published message experiments; Tier-1 rows synthesised backwards from the table under census quotas. Built by an autonomous LLM agent (claude-opus-5 in an agent harness) working inside an environment that scored it only on fresh respondent-halves of held-out studies with a 2-submission budget, attenuation-corrected diagnostics, and a leave-one-study-out promotion gate; no human edited any prediction. Registered team: Tobias Holtdirk, Bolei Ma; the agent sessions for this entry were operated by contributor Haiwen Huang.",
+  "license": "CC-BY-4.0",
+  "tier": 1,
+  "entry": "primary",
+  "approach_family": "direct effect forecast by an autonomous LLM agent (analysis-first structural model fitted to prior experiments; no per-respondent simulation); backward synthesis of Tier-1 rows; single model; literature-conditioned via a vendored train split",
+  "models": [
+    "claude-opus-5 (Anthropic; agent and its 14 sub-agent sessions, thinking=high, via Prime Agent 0.7.2 over Claude Code CLI 2.1.220; confirmed from every session's exec log and run.json)"
+  ],
+  "code_repository": "https://github.com/tobihol/silicon-sample-submission",
+  "code_doi": "10.5281/zenodo.22214502",
+  "disclosure_class": "B",
+  "escrow_doi": "10.5281/zenodo.22214549",
+  "zenodo_doi": null,
+  "prediction_files": [
+    {
+      "file": "predictions/team_31_T1_primary_v1.csv",
+      "sha256": "d6b060a7b92f205c0d5406603c4ef322af9f617ffc417335a059f250c0090c52"
+    }
+  ],
+  "coverage": {
+    "interventions": 16,
+    "outcomes": 13
+  },
+  "blinding_attestation": true,
+  "entry_version": "idea_03 entry v5 (frozen 2026-08-28T11:46Z, before its single sealed internal-test score)",
+  "built_at": "2026-08-28",
+  "publication_window": "2026-08-28 .. 2026-08-31"
+}
